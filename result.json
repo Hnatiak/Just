@@ -4065,17 +4065,10 @@
    ]
   },
   {
-   "id": 751,
-   "type": "message",
-   "date": "2021-11-23T18:25:11",
-   "date_unixtime": "1637688311",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": "I'm in love with! - Я закоханий(а) у!",
    "text_entities": [
     {
      "type": "plain",
-     "text": "I'm in love with! - Я закоханий(а) у!"
+     "text": "I'm in love (with)... - Я закоханий(а) (у)..."
     }
    ]
   },
@@ -4692,23 +4685,6 @@
     {
      "type": "plain",
      "text": "Why did I  ask you? - Чому я тебе запитав?\nWhy did I even ask you? - Чому я взагалі вас запитав?"
-    }
-   ]
-  },
-  {
-   "id": 799,
-   "type": "message",
-   "date": "2021-11-25T20:50:28",
-   "date_unixtime": "1637869828",
-   "edited": "2021-11-25T20:51:57",
-   "edited_unixtime": "1637869917",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": "I'm in love - Я закоханий(а)",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "I'm in love - Я закоханий(а)"
     }
    ]
   },
@@ -53080,13 +53056,6 @@
    ]
   },
   {
-   "id": 4104,
-   "type": "message",
-   "date": "2022-07-02T01:41:18",
-   "date_unixtime": "1656718878",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": "I think I'm in love with you - я думаю, що я закоханий у тебе",
    "text_entities": [
     {
      "type": "plain",
@@ -61312,110 +61281,10 @@
    ]
   },
   {
-   "id": 4665,
-   "type": "message",
-   "date": "2022-09-06T21:21:44",
-   "date_unixtime": "1662492104",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": [
-    "Любовні фрази:\n",
-    {
-     "type": "bold",
-     "text": "Для шанувальників поезії\n"
-    },
-    "“I yearn for you.”   – Я сумую (Сумую) за тобою.\n“I'm under your spell.”  – я зачарований тобою.\n“I'm smitten with you.”  – Я убитий тобою.\n“I am in love with you.” — я люблю тебе.\n“I’m in love with you.” — я закоханий (- на)   в тебе.\n“I love you from the bottom of my heart.” — я люблю тебе від щирого серця.\n“You make me feel young again.” – ти даєш мені відчути себе знову молодим.\n“I’m totally into you.” - я по  вуха закоханий(Олена) в тебе.\n“There is no other.” - ти для мене єдиний(а).\n“You turn me insid eout.” — Ти змушуєш мене сходити з розуму.\n“You’ve put a spell on me.” — Ти мене заворожив (-а).\n“I’m under your spell.” — я підпорядкований (-а) твоїм чарам.\n“My heart calls out for you.” — моє серце кличе до тебе.\n\n",
-    {
-     "type": "bold",
-     "text": "Фрази, до яких неможливо залишатися байдужим\n"
-    },
-    "“I'm yours.”  – я твій.\n“I adore you.”  – я обожнюю тебе.\n“There is no other.”  – такий, як ти, більше немає / таких як ти - немає у цілому світі\n“I'm infatuated with you ”— «Я без розуму від тебе ».\n“You're perfect ” — «ти— мій ідеал ».\n“I've totally fallen for you ”— «Я впав перед тобою ».\n“I've got a crush on you ” —«я закоханий в тебе до безпам'ятства ».\n“I think I'm in love with you ” —«мені здається, я в тебе закоханий ».\n\n",
-    {
-     "type": "bold",
-     "text": "Вишуканий спосіб визнання \n"
-    },
-    "“I'm rather partial to you.”  – Я небайдужий до тебе.\n“You're not bad.”  – ти непогана.\n“I kinda like you.” – ти мені ніби як подобаєшся.\n“I'm fond of you.”  – ти мені досить сильно подобаєшся.\n“I have a soft spot for you.”  – Ти мені симпатична.\n “I feel something for you.” - я щось до тебе відчуваю.\n“I’m drawn to you.”-  мене до тебе тягне.\n“I think of you as more than a friend.”-  Ти для  мене більше, ніж друг.\n\n",
-    {
-     "type": "bold",
-     "text": "Фрази для тих, хто вже давно разом  \n"
-    },
-    "“You're my darling.” – ти моя дорога.\n“You're my sweetie.” – Ти моя солодка.\n“I'm devoted to you.” – я Відданий тобі.\n“You're my sunshine.” – Ти моє сонечко.\n“You're my other half.” – Ти моя друга половинка.\n“You’re my Prince Charming.”  — Ти мій принц.\n“You’re my princess.”  — Ти моя принцеса.\n“You’re my angel.”  — Ти мій ангел.\n“You’re incredible /wonderful/amazing/astonishing.”  — ти чудовий (-а).\n“You’re one hot babe!&Rdquo; — гаряча штучка!\n“You’re my king.”  — Ти мій король.\n\n",
-    {
-     "type": "bold",
-     "text": "Приємні компліменти\n"
-    },
-    "“You are looking beautiful / handsome today.”-  сьогодні ви виглядаєте прекрасно (використовуйте beautiful в розмові з жінкою, а handsome — з чоловіком).\n“You look great today!”-  Сьогодні ти виглядаєш чудово!\n“You’re not bad.” -   а ти нічого.\n\n",
-    {
-     "type": "bold",
-     "text": "Переконайте обранця\n"
-    },
-    "“We're a good match.” – ми відмінна пара.\n“We complete each other.” – ми доповнюємо один одного.\n“We're meant for each other.” – ми створені один для одного.\n“We're perfect for each other.” – ми ідеально підходимо один для одного.\n “You make me want to be a better man.” - ти розбудив(ла) в мені бажання стати краще.\n“We were meant to be together.” -   Ми призначені один одному долею.\n\n",
-    {
-     "type": "bold",
-     "text": "Для справжніх романтиків  \n"
-    },
-    "“I can’t wait to spend the rest of my life together with you.” – Я не можу дочекатися, щоб провести залишок життя разом з тобою.\n“You’re captivating.” -   ти полонив(Ла) мене.\n“After I fell in love with you, I fell in love with my life.&Rdquo; — полюбивши тебе, я полюбив (-Ла) життя. \n“I’m under your spell.”  — я підпорядкований (-а) твоїм чарам.\n“My heart calls out for you.”  — моє серце кличе до тебе.\n“Here is the key to my heart.” — ось ключ від мого серця.\n“With you, forever won’t be too long.”  — з тобою вічність коротка.\n“I can’t bear to be apart from you.” — для мене нестерпно бути далеко від тебе.\n“You turn me inside out.” -   ти перевернув(Ла) мені душу."
-   ],
    "text_entities": [
     {
      "type": "plain",
-     "text": "Любовні фрази:\n"
-    },
-    {
-     "type": "bold",
-     "text": "Для шанувальників поезії\n"
-    },
-    {
-     "type": "plain",
-     "text": "“I yearn for you.”   – Я сумую (Сумую) за тобою.\n“I'm under your spell.”  – я зачарований тобою.\n“I'm smitten with you.”  – Я убитий тобою.\n“I am in love with you.” — я люблю тебе.\n“I’m in love with you.” — я закоханий (- на)   в тебе.\n“I love you from the bottom of my heart.” — я люблю тебе від щирого серця.\n“You make me feel young again.” – ти даєш мені відчути себе знову молодим.\n“I’m totally into you.” - я по  вуха закоханий(Олена) в тебе.\n“There is no other.” - ти для мене єдиний(а).\n“You turn me insid eout.” — Ти змушуєш мене сходити з розуму.\n“You’ve put a spell on me.” — Ти мене заворожив (-а).\n“I’m under your spell.” — я підпорядкований (-а) твоїм чарам.\n“My heart calls out for you.” — моє серце кличе до тебе.\n\n"
-    },
-    {
-     "type": "bold",
-     "text": "Фрази, до яких неможливо залишатися байдужим\n"
-    },
-    {
-     "type": "plain",
-     "text": "“I'm yours.”  – я твій.\n“I adore you.”  – я обожнюю тебе.\n“There is no other.”  – такий, як ти, більше немає / таких як ти - немає у цілому світі\n“I'm infatuated with you ”— «Я без розуму від тебе ».\n“You're perfect ” — «ти— мій ідеал ».\n“I've totally fallen for you ”— «Я впав перед тобою ».\n“I've got a crush on you ” —«я закоханий в тебе до безпам'ятства ».\n“I think I'm in love with you ” —«мені здається, я в тебе закоханий ».\n\n"
-    },
-    {
-     "type": "bold",
-     "text": "Вишуканий спосіб визнання \n"
-    },
-    {
-     "type": "plain",
-     "text": "“I'm rather partial to you.”  – Я небайдужий до тебе.\n“You're not bad.”  – ти непогана.\n“I kinda like you.” – ти мені ніби як подобаєшся.\n“I'm fond of you.”  – ти мені досить сильно подобаєшся.\n“I have a soft spot for you.”  – Ти мені симпатична.\n “I feel something for you.” - я щось до тебе відчуваю.\n“I’m drawn to you.”-  мене до тебе тягне.\n“I think of you as more than a friend.”-  Ти для  мене більше, ніж друг.\n\n"
-    },
-    {
-     "type": "bold",
-     "text": "Фрази для тих, хто вже давно разом  \n"
-    },
-    {
-     "type": "plain",
-     "text": "“You're my darling.” – ти моя дорога.\n“You're my sweetie.” – Ти моя солодка.\n“I'm devoted to you.” – я Відданий тобі.\n“You're my sunshine.” – Ти моє сонечко.\n“You're my other half.” – Ти моя друга половинка.\n“You’re my Prince Charming.”  — Ти мій принц.\n“You’re my princess.”  — Ти моя принцеса.\n“You’re my angel.”  — Ти мій ангел.\n“You’re incredible /wonderful/amazing/astonishing.”  — ти чудовий (-а).\n“You’re one hot babe!&Rdquo; — гаряча штучка!\n“You’re my king.”  — Ти мій король.\n\n"
-    },
-    {
-     "type": "bold",
-     "text": "Приємні компліменти\n"
-    },
-    {
-     "type": "plain",
-     "text": "“You are looking beautiful / handsome today.”-  сьогодні ви виглядаєте прекрасно (використовуйте beautiful в розмові з жінкою, а handsome — з чоловіком).\n“You look great today!”-  Сьогодні ти виглядаєш чудово!\n“You’re not bad.” -   а ти нічого.\n\n"
-    },
-    {
-     "type": "bold",
-     "text": "Переконайте обранця\n"
-    },
-    {
-     "type": "plain",
-     "text": "“We're a good match.” – ми відмінна пара.\n“We complete each other.” – ми доповнюємо один одного.\n“We're meant for each other.” – ми створені один для одного.\n“We're perfect for each other.” – ми ідеально підходимо один для одного.\n “You make me want to be a better man.” - ти розбудив(ла) в мені бажання стати краще.\n“We were meant to be together.” -   Ми призначені один одному долею.\n\n"
-    },
-    {
-     "type": "bold",
-     "text": "Для справжніх романтиків  \n"
-    },
-    {
-     "type": "plain",
-     "text": "“I can’t wait to spend the rest of my life together with you.” – Я не можу дочекатися, щоб провести залишок життя разом з тобою.\n“You’re captivating.” -   ти полонив(Ла) мене.\n“After I fell in love with you, I fell in love with my life.&Rdquo; — полюбивши тебе, я полюбив (-Ла) життя. \n“I’m under your spell.”  — я підпорядкований (-а) твоїм чарам.\n“My heart calls out for you.”  — моє серце кличе до тебе.\n“Here is the key to my heart.” — ось ключ від мого серця.\n“With you, forever won’t be too long.”  — з тобою вічність коротка.\n“I can’t bear to be apart from you.” — для мене нестерпно бути далеко від тебе.\n“You turn me inside out.” -   ти перевернув(Ла) мені душу."
+     "text": "Любовні фрази:\n\nДля шанувальників поезії\n“I yearn for you.” – Я сумую (Сумую) за тобою.\n“I'm under your spell.” – я зачарований тобою.\n“I'm smitten with you.” – Я убитий тобою.\n“I am in love with you.” — я люблю тебе.\n“I’m in love with you.” — я закоханий (- на)   в тебе.\n“I love you from the bottom of my heart.” — я люблю тебе від щирого серця.\n“You make me feel young again.” – ти даєш мені відчути себе знову молодим.\n“I’m totally into you.” - я по  вуха закоханий(Олена) в тебе.\n“There is no other.” - ти для мене єдиний(а).\n“You turn me insid eout.” — Ти змушуєш мене сходити з розуму.\n“You’ve put a spell on me.” — Ти мене заворожив (-а).\n“I’m under your spell.” — я підпорядкований (-а) твоїм чарам.\n“My heart calls out for you.” — моє серце кличе до тебе.\n\nФрази, до яких неможливо залишатися байдужим\n“I'm yours.” – я твій.\n“I adore you.” – я обожнюю тебе.\n“There is no other.” – такий, як ти, більше немає / таких як ти - немає у цілому світі\n“I'm infatuated with you ”— «Я без розуму від тебе ».\n“You're perfect ” — «ти— мій ідеал ».\n“I've totally fallen for you ”— «Я впав перед тобою ».\n“I've got a crush on you ” — «я закоханий в тебе до безпам'ятства ».\n“I think I'm in love with you ” — «мені здається, я в тебе закоханий ».\n\nВишуканий спосіб визнання\n“I'm rather partial to you.” – Я небайдужий до тебе.\n“You're not bad.” – ти непогана.\n“I kinda like you.” – ти мені ніби як подобаєшся.\n“I'm fond of you.” – ти мені досить сильно подобаєшся.\n“I have a soft spot for you.” – Ти мені симпатична.\n “I feel something for you.” - я щось до тебе відчуваю.\n“I’m drawn to you.” - мене до тебе тягне.\n“I think of you as more than a friend.” - Ти для  мене більше, ніж друг.\n\nФрази для тих, хто вже давно разом\n“You're my darling.” – ти моя дорога.\n“You're my sweetie.” – Ти моя солодка.\n“I'm devoted to you.” – я Відданий тобі.\n“You're my sunshine.” – Ти моє сонечко.\n“You're my other half.” – Ти моя друга половинка.\n“You’re my Prince Charming.” — Ти мій принц.\n“You’re my princess.” — Ти моя принцеса.\n“You’re my angel.” — Ти мій ангел.\n“You’re incredible /wonderful/amazing/astonishing.” — ти чудовий (-а).\n“You’re one hot babe!&Rdquo; — гаряча штучка!\n“You’re my king.” — Ти мій король.\n\nПриємні компліменти\n“You are looking beautiful / handsome today.”- сьогодні ви виглядаєте прекрасно (використовуйте beautiful в розмові з жінкою, а handsome — з чоловіком).\n“You look great today!”- Сьогодні ти виглядаєш чудово!\n“You’re not bad.” - а ти нічого.\n\nПереконайте обранця\n“We're a good match.” – ми відмінна пара.\n“We complete each other.” – ми доповнюємо один одного.\n“We're meant for each other.” – ми створені один для одного.\n“We're perfect for each other.” – ми ідеально підходимо один для одного.\n “You make me want to be a better man.” - ти розбудив(ла) в мені бажання стати краще.\n“We were meant to be together.” - Ми призначені один одному долею.\n\nДля справжніх романтиків\n“I can’t wait to spend the rest of my life together with you.” – Я не можу дочекатися, щоб провести залишок життя разом з тобою.\n“You’re captivating.” - ти полонив(Ла) мене.\n“After I fell in love with you, I fell in love with my life.&Rdquo; — полюбивши тебе, я полюбив (-Ла) життя.\n“I’m under your spell.”  — я підпорядкований (-а) твоїм чарам.\n“My heart calls out for you.”  — моє серце кличе до тебе.\n“Here is the key to my heart.” — ось ключ від мого серця.\n“With you, forever won’t be too long.”  — з тобою вічність коротка.\n“I can’t bear to be apart from you.” — для мене нестерпно бути далеко від тебе.\n“You turn me inside out.” - ти перевернув(Ла) мені душу."
     }
    ]
   },
@@ -68645,27 +68514,10 @@
    ]
   },
   {
-   "id": 5058,
-   "type": "message",
-   "date": "2022-11-05T11:23:24",
-   "date_unixtime": "1667643804",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": [
-    {
-     "type": "bold",
-     "text": "★ Hack"
-    },
-    " — халтурник, бездар, дилетант, найманий робітник який пропонує свої послуги за гроші, але не володіє потрібним досвідом та навичками, його не цікавить якісне виконання роботи, тільки фінансова вигода. Це слово найчастіше застосовується до посереднього журналіста, писаки, чиї твори не відповідають бажаним професійним стандартам.\n\n‒ Oh, he is just a hack. What can you expect?\n‒ Він просто халтурник. Що з нього взяти?"
-   ],
    "text_entities": [
     {
      "type": "bold",
-     "text": "★ Hack"
-    },
-    {
-     "type": "plain",
-     "text": " — халтурник, бездар, дилетант, найманий робітник який пропонує свої послуги за гроші, але не володіє потрібним досвідом та навичками, його не цікавить якісне виконання роботи, тільки фінансова вигода. Це слово найчастіше застосовується до посереднього журналіста, писаки, чиї твори не відповідають бажаним професійним стандартам.\n\n‒ Oh, he is just a hack. What can you expect?\n‒ Він просто халтурник. Що з нього взяти?"
+     "text": "★ Hack  — халтурник, бездар, дилетант, найманий робітник який пропонує свої послуги за гроші, але не володіє потрібним досвідом та навичками, його не цікавить якісне виконання роботи, тільки фінансова вигода. Це слово найчастіше застосовується до посереднього журналіста, писаки, чиї твори не відповідають бажаним професійним стандартам.\n\n‒ Oh, he is just a hack. What can you expect?\n‒ Він просто халтурник. Що з нього взяти?"
     }
    ]
   },
@@ -73620,21 +73472,6 @@
     {
      "type": "plain",
      "text": "So they say - Тому вони кажуть"
-    }
-   ]
-  },
-  {
-   "id": 5352,
-   "type": "message",
-   "date": "2022-11-23T21:25:41",
-   "date_unixtime": "1669235141",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": "Dance for me, dance for me, dance for me, oh, oh, oh - Танцюй для мене, танцюй для мене, танцюй для мене, ой, ой, ой",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Dance for me, dance for me, dance for me, oh, oh, oh - Танцюй для мене, танцюй для мене, танцюй для мене, ой, ой, ой"
     }
    ]
   },
@@ -96098,21 +95935,6 @@
    ]
   },
   {
-   "id": 6543,
-   "type": "message",
-   "date": "2023-06-07T16:43:49",
-   "date_unixtime": "1686149029",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": "Oh, oh, oh - оу оу оу",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "Oh, oh, oh - оу оу оу"
-    }
-   ]
-  },
-  {
    "id": 6544,
    "type": "message",
    "date": "2023-06-07T16:44:05",
@@ -96130,579 +95952,14 @@
    ]
   },
   {
-   "id": 6545,
-   "type": "message",
-   "date": "2023-06-08T16:38:49",
-   "date_unixtime": "1686235129",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": [
-    {
-     "type": "bold",
-     "text": "Слова на тему «війна»:\n\n• War "
-    },
-    "— ",
-    {
-     "type": "italic",
-     "text": "Війна  \n"
-    },
-    {
-     "type": "bold",
-     "text": "• Peace"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Мир  \n"
-    },
-    {
-     "type": "bold",
-     "text": "• Army"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Армія\n"
-    },
-    "• ",
-    {
-     "type": "bold",
-     "text": "Battle"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Битва\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Attack"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Атака"
-    },
-    " \n",
-    {
-     "type": "bold",
-     "text": "• Oath"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Присяга\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Officer"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Офіцер\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Soldier "
-    },
-    "— ",
-    {
-     "type": "italic",
-     "text": "Солдат"
-    },
-    " \n",
-    {
-     "type": "bold",
-     "text": "• Defeat"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Поразка\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Retreat"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Відступ"
-    },
-    " \n",
-    {
-     "type": "bold",
-     "text": "• Private"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Рядовий\n"
-    },
-    {
-     "type": "bold",
-     "text": "• General"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Генерал\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Defence "
-    },
-    "— ",
-    {
-     "type": "italic",
-     "text": "Оборона\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Victory"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Перемога\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Offensive "
-    },
-    "— ",
-    {
-     "type": "italic",
-     "text": "Наступ\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Artillery "
-    },
-    "— ",
-    {
-     "type": "italic",
-     "text": "Артилерія "
-    },
-    " \n",
-    {
-     "type": "bold",
-     "text": "• Sergeant"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Сержант"
-    },
-    "  \n",
-    {
-     "type": "bold",
-     "text": "• Armistice"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Перемир'я\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Commander"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Командир\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Capitulation"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Капітуляція\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Paratroopers"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Десантники"
-    },
-    " \n",
-    {
-     "type": "bold",
-     "text": "• Border guard"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Прикордонник"
-    },
-    " \n",
-    {
-     "type": "bold",
-     "text": "• Navy"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Військово-морський флот"
-    },
-    "  \n",
-    {
-     "type": "bold",
-     "text": "• Prisoner of war"
-    },
-    
-    {
-     "type": "italic",
-     "text": "Військовополонений"
-    },
-    ""
-   ],
    "text_entities": [
     {
      "type": "bold",
-     "text": "Слова на тему «війна»:\n\n• War "
-    },
-    {
-     "type": "plain",
-     "text": "— "
-    },
-    {
-     "type": "italic",
-     "text": "Війна  \n"
-    },
-    {
-     "type": "bold",
-     "text": "• Peace"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Мир  \n"
-    },
-    {
-     "type": "bold",
-     "text": "• Army"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Армія\n"
-    },
-    {
-     "type": "plain",
-     "text": "• "
-    },
-    {
-     "type": "bold",
-     "text": "Battle"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Битва\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Attack"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Атака"
-    },
-    {
-     "type": "plain",
-     "text": " \n"
-    },
-    {
-     "type": "bold",
-     "text": "• Oath"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Присяга\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Officer"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Офіцер\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Soldier "
-    },
-    {
-     "type": "plain",
-     "text": "— "
-    },
-    {
-     "type": "italic",
-     "text": "Солдат"
-    },
-    {
-     "type": "plain",
-     "text": " \n"
-    },
-    {
-     "type": "bold",
-     "text": "• Defeat"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Поразка\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Retreat"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Відступ"
-    },
-    {
-     "type": "plain",
-     "text": " \n"
-    },
-    {
-     "type": "bold",
-     "text": "• Private"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Рядовий\n"
-    },
-    {
-     "type": "bold",
-     "text": "• General"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Генерал\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Defence "
-    },
-    {
-     "type": "plain",
-     "text": "— "
-    },
-    {
-     "type": "italic",
-     "text": "Оборона\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Victory"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Перемога\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Offensive "
-    },
-    {
-     "type": "plain",
-     "text": "— "
-    },
-    {
-     "type": "italic",
-     "text": "Наступ\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Artillery "
-    },
-    {
-     "type": "plain",
-     "text": "— "
-    },
-    {
-     "type": "italic",
-     "text": "Артилерія "
-    },
-    {
-     "type": "plain",
-     "text": " \n"
-    },
-    {
-     "type": "bold",
-     "text": "• Sergeant"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Сержант"
-    },
-    {
-     "type": "plain",
-     "text": "  \n"
-    },
-    {
-     "type": "bold",
-     "text": "• Armistice"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Перемир'я\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Commander"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Командир\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Capitulation"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Капітуляція\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Paratroopers"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Десантники"
-    },
-    {
-     "type": "plain",
-     "text": " \n"
-    },
-    {
-     "type": "bold",
-     "text": "• Border guard"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Прикордонник"
-    },
-    {
-     "type": "plain",
-     "text": " \n"
-    },
-    {
-     "type": "bold",
-     "text": "• Navy"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Військово-морський флот"
-    },
-    {
-     "type": "plain",
-     "text": "  \n"
-    },
-    {
-     "type": "bold",
-     "text": "• Prisoner of war"
-    },
-    {
-     "type": "plain",
-     "text": " — "
-    },
-    {
-     "type": "italic",
-     "text": "Військовополонений"
-    },
-    {
-     "type": "plain",
-     "text": ""
+     "text": "Слова на тему «війна»:\n\n• War — Війна\n• Peace — Мир\n• Army — Армія\n• Battle — Битва\n• Attack — Атака\n• Oath — Присяга\n• Officer — Офіцер\n• Soldier — Солдат\n• Defeat — Поразка\n• Retreat — Відступ\n• Private — Рядовий\n• General — Генерал\n• Defence — Оборона\n• Victory — Перемога\n• Offensive — Наступ\n• Artillery — Артилерія\n• Sergeant — Сержант\n• Armistice — Перемир'я\n• Commander — Командир\n• Capitulation — Капітуляція\n• Paratroopers — Десантники\n• Border guard — Прикордонник\n• Navy — Військово-морський флот\n• Prisoner of war — Військовополонений"
     }
    ]
   },
   {
-   "id": 6546,
-   "type": "message",
-   "date": "2023-06-09T11:30:22",
-   "date_unixtime": "1686303022",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": "Before my garment lost it’s white - Перед тим як мій одяг втратив, він був білим",
    "text_entities": [
     {
      "type": "plain",
@@ -101314,15 +100571,6 @@
    ]
   },
   {
-   "id": 6754,
-   "type": "message",
-   "date": "2023-07-08T10:03:23",
-   "date_unixtime": "1688803403",
-   "edited": "2023-07-12T21:43:41",
-   "edited_unixtime": "1689191021",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": "Run after - Гнатися за кимось/чимось\n\nRun away (from) - Таємно втекти (з (відкись))\n● You shouldn't run away from home - тобі не варто тікати з дому\n\nRight afterwards - Одразу ж після цього (означення часу)",
    "text_entities": [
     {
      "type": "plain",
@@ -101331,15 +100579,6 @@
    ]
   },
   {
-   "id": 6755,
-   "type": "message",
-   "date": "2023-07-09T09:27:34",
-   "date_unixtime": "1688887654",
-   "edited": "2023-07-12T21:43:40",
-   "edited_unixtime": "1689191020",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": "Unsurpassed - Неперевершений(-а)",
    "text_entities": [
     {
      "type": "plain",
@@ -101348,15 +100587,6 @@
    ]
   },
   {
-   "id": 6756,
-   "type": "message",
-   "date": "2023-07-10T14:30:20",
-   "date_unixtime": "1688992220",
-   "edited": "2023-07-12T21:43:38",
-   "edited_unixtime": "1689191018",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": "❗️Основні помилки в граматиці  \n\n❌ Thanks for giving me useful advices\n✅ Thanks for giving me useful advice\n— Іменник «advice» не вживається в множині. Можна вживати словосполучення a piece of advice\n⠀\n❌ I have never tried on so a nice dress\n✅ I have never tried on such a nice dress\n— So вживаємо з прикметника, а such – з іменниками\n⠀\n❌ He has three son-in-laws\n✅ He has three sons-in-law\n— Закінчення множини ставимо у слові «sons», а не вкінці, як ми звикли\n⠀\n❌ I looked at me in the mirror\n✅ I looked at myself in the mirror\n— Просто запам’ятовуємо, що на себе дивитись буде looked at myself і все",
    "text_entities": [
     {
      "type": "plain",
@@ -101365,211 +100595,10 @@
    ]
   },
   {
-   "id": 6757,
-   "type": "message",
-   "date": "2023-07-11T22:13:52",
-   "date_unixtime": "1689106432",
-   "edited": "2023-07-12T21:43:37",
-   "edited_unixtime": "1689191017",
-   "from": "Просто - Just",
-   "from_id": "channel1446064487",
-   "text": [
-    {
-     "type": "bold",
-     "text": "Корисні фрази англійською при покупці SIM-картки англійською:"
-    },
-    "\n\n",
-    {
-     "type": "bold",
-     "text": "• How long does this plan last?"
-    },
-    " ― ",
-    {
-     "type": "italic",
-     "text": "Як довго діє цей план?"
-    },
-    "\n",
-    {
-     "type": "bold",
-     "text": "• I would like to buy a SIM-card"
-    },
-    " ― ",
-    {
-     "type": "italic",
-     "text": "Я хотів би придбати SIM-карту"
-    },
-    "\n",
-    {
-     "type": "bold",
-     "text": "• Do you need to see my passport? "
-    },
-    "― ",
-    {
-     "type": "italic",
-     "text": "Вам потрібно подивитися мій паспорт?"
-    },
-    "\n",
-    {
-     "type": "bold",
-     "text": "• How can I top up my SIM card?"
-    },
-    " ― ",
-    {
-     "type": "italic",
-     "text": "Як я можу поповнити свою SIM-карту?"
-    },
-    "\n",
-    {
-     "type": "bold",
-     "text": "• Does it include SMS (text messages)? "
-    },
-    "― ",
-    {
-     "type": "italic",
-     "text": "Чи включає це SMS (текстові повідомлення)?"
-    },
-    "\n",
-    {
-     "type": "bold",
-     "text": "• How many gigabytes/minutes are in this plan?"
-    },
-    " ― ",
-    {
-     "type": "italic",
-     "text": "Скільки гігабайт/хвилин у цьому тарифному плані?"
-    },
-    "\n",
-    {
-     "type": "bold",
-     "text": "• Can I call abroad with this plan or will I be charged extra? "
-    },
-    "― ",
-    {
-     "type": "italic",
-     "text": "Чи можу я дзвонити за кордон з цим тарифним планом, чи за це буде стягуватися додаткова плата?"
-    },
-    ""
-   ],
    "text_entities": [
     {
      "type": "bold",
-     "text": "Корисні фрази англійською при покупці SIM-картки англійською:"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n"
-    },
-    {
-     "type": "bold",
-     "text": "• How long does this plan last?"
-    },
-    {
-     "type": "plain",
-     "text": " ― "
-    },
-    {
-     "type": "italic",
-     "text": "Як довго діє цей план?"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "bold",
-     "text": "• I would like to buy a SIM-card"
-    },
-    {
-     "type": "plain",
-     "text": " ― "
-    },
-    {
-     "type": "italic",
-     "text": "Я хотів би придбати SIM-карту"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Do you need to see my passport? "
-    },
-    {
-     "type": "plain",
-     "text": "― "
-    },
-    {
-     "type": "italic",
-     "text": "Вам потрібно подивитися мій паспорт?"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "bold",
-     "text": "• How can I top up my SIM card?"
-    },
-    {
-     "type": "plain",
-     "text": " ― "
-    },
-    {
-     "type": "italic",
-     "text": "Як я можу поповнити свою SIM-карту?"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Does it include SMS (text messages)? "
-    },
-    {
-     "type": "plain",
-     "text": "― "
-    },
-    {
-     "type": "italic",
-     "text": "Чи включає це SMS (текстові повідомлення)?"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "bold",
-     "text": "• How many gigabytes/minutes are in this plan?"
-    },
-    {
-     "type": "plain",
-     "text": " ― "
-    },
-    {
-     "type": "italic",
-     "text": "Скільки гігабайт/хвилин у цьому тарифному плані?"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "bold",
-     "text": "• Can I call abroad with this plan or will I be charged extra? "
-    },
-    {
-     "type": "plain",
-     "text": "― "
-    },
-    {
-     "type": "italic",
-     "text": "Чи можу я дзвонити за кордон з цим тарифним планом, чи за це буде стягуватися додаткова плата?"
-    },
-    {
-     "type": "plain",
-     "text": ""
+     "text": "Корисні фрази англійською при покупці SIM-картки англійською:\n\n• How long does this plan last? ― Як довго діє цей план?\n• I would like to buy a SIM-card ― Я хотів би придбати SIM-карту\n• Do you need to see my passport? ― Вам потрібно подивитися мій паспорт?\n• How can I top up my SIM card? ― Як я можу поповнити свою SIM-карту?\n• Does it include SMS (text messages)? ― Чи включає це SMS (текстові повідомлення)?\n• How many gigabytes/minutes are in this plan? ― Скільки гігабайт/хвилин у цьому тарифному плані?\n• Can I call abroad with this plan or will I be charged extra? ― Чи можу я дзвонити за кордон з цим тарифним планом, чи за це буде стягуватися додаткова плата?"
     }
    ]
   },
@@ -110801,6 +109830,22 @@
      {
       "type": "plain",
       "text": "To argue - Сваритись / Сперечатись\nThey were arguing - Вони сперечалися / Вони сперечались / Вони сварились / Вони сварилися"
+     }
+    ]
+   },
+   {
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "Strategy - Стратегія"
+     }
+    ]
+   },
+   {
+    "text_entities": [
+     {
+      "type": "plain",
+      "text": "Види людей у спорті:\n\nAthlete - атлет / атлетка\nRunner - бігун / бігунка\nSwimmer - плавець / плавчиня\nCyclist - велосипедист / велосипедистка\nBoxer - боксер / боксерка\nGymnast - гімнаст / гімнастка\nFootballer - футболіст / футболістка\nBasketball player - баскетболіст / баскетболістка\nTennis player - тенісист / тенісистка\nSkier - лижник / лижниця\nWeightlifter - важкоатлет / важкоатлетка\nWrestler - борець / борчиня\nDiver - стрибун у воду / стрибунка у воду\nArcher - лучник / лучниця\nGolfer - гольфіст / гольфістка\nSurfer - серфінгіст / серфінгістка\nMarathoner - марафонець / марафонка\nTriathlete - триатлоніст / триатлоністка\nJudoist - дзюдоїст / дзюдоїстка\nIce skater - фігурист / фігуристка\nWeightlifter - штангіст / штангістка\nFencer - фехтувальник / фехтувальниця"
      }
     ]
    }
