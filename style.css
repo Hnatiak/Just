@@ -283,3 +283,135 @@ footer {
     width: 24px;
     height: 24px;
 }
+
+
+
+
+@media (max-width: 768px) {
+    .header {
+        justify-content: center;
+        padding: 10px 15px;
+    }
+
+    .icon-box {
+        align-items: center;
+    }
+
+    .icon {
+        width: 40px;
+        height: 40px;
+    }
+
+    .search-bar {
+        padding: 10px 15px;
+    }
+
+    .text {
+        padding: 8px;
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .result {
+        width: 100%;
+    }
+
+    .result-box {
+        padding: 0 10px 30px 10px;
+    }
+
+    .error-box {
+        padding: 15px 10px 30px 10px;
+    }
+
+    .error {
+        width: 100%;
+    }
+
+    footer {
+        padding: 15px 15px;
+        border: 3px solid #3498db;
+    }
+
+    .footer-content h5 {
+        font-size: 14px;
+    }
+
+    .telegram-link {
+        font-size: 14px;
+        gap: 6px;
+    }
+
+    .telegram-icon {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+/* Стилі для дуже маленьких екранів (ширина екрана до 480px) */
+@media (max-width: 480px) {
+    .header {
+        padding: 5px 10px;
+        align-items: center;
+        
+        h1 {
+            display: none;
+        }
+    }
+
+    .icon-box {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .icon {
+        width: 30px;
+        height: 30px;
+    }
+
+    .search-bar {
+        padding: 5px 10px;
+    }
+
+    .text {
+        padding: 6px;
+        font-size: 12px;
+        width: calc(100% - 20px);
+    }
+
+    .result {
+        width: 100%;
+    }
+
+    .result-box {
+        padding: 0 5px 20px 5px;
+    }
+
+    .error-box {
+        padding: 10px 5px 20px 5px;
+    }
+
+    .error {
+        width: 100%;
+    }
+
+    footer {
+        padding: 10px 10px;
+        border: 2px solid #3498db;
+    }
+
+    .footer-content h5 {
+        font-size: 12px;
+    }
+
+    .telegram-link {
+        font-size: 12px;
+        gap: 4px;
+    }
+
+    .telegram-icon {
+        width: 18px;
+        height: 18px;
+    }
+}
