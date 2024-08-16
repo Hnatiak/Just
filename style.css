@@ -75,6 +75,7 @@
     justify-content: center;
     align-items: center;
     padding: 0px 15px 55px 15px;
+    width: 100%;
 }
 
 .error {
@@ -86,6 +87,8 @@
     background-color: #fdd;
     border-radius: 5px;
     width: 850px;
+
+    box-shadow: 1px 1px 20px red;
 }
 
 .show {
@@ -93,6 +96,112 @@
     justify-content: center;
     align-items: center;
 }
+
+/* Базові стилі для інпут-поля
+.text {
+    position: relative;
+    border: 2px solid #3498db;
+    font-size: 16px;
+    outline: none;
+    background-color: #fff;
+    color: #333;
+    transition: border-color 0.3s ease;
+}
+
+.text::before {
+    content: "";
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    width: calc(100% + 10px);
+    height: calc(100% + 10px);
+    border-radius: 10px;
+    border: 2px solid transparent;
+    background: linear-gradient(45deg, #3498db, #2980b9, #3498db, #2980b9);
+    background-size: 400% 400%;
+    z-index: -1;
+    animation: pulse 4s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+        opacity: 1;
+    }
+    50% {
+        transform: scale(1.05);
+        opacity: 0.7;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.text:focus {
+    border-color: #2980b9;
+} */
+
+
+
+
+
+
+
+
+/* Основні стилі для інпут-поля */
+.text {
+    position: relative; /* Додаємо relative позицію для псевдоелементів */
+    padding: 10px;
+    border: 2px solid #3498db; /* Синя рамка інпут-поля */
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none; /* Видаляємо стандартний outline браузера */
+    background-color: #fff;
+    color: #333;
+    transition: border-color 0.3s ease; /* Плавний перехід кольору рамки */
+    box-shadow: 1px 1px 20px 3px #3498db;
+}
+
+/* Псевдоелемент для анімації завантаження */
+.text::after {
+    content: ""; /* Потрібно для відображення псевдоелемента */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 120%; /* Трохи більше ширини, ніж інпут */
+    height: 120%; /* Трохи більше висоти, ніж інпут */
+    border: 2px solid #3498db; /* Синя рамка для анімації */
+    border-radius: 50%; /* Круглий псевдоелемент */
+    border-top: 2px solid transparent; /* Прозорі верхній край для створення ефекту обертання */
+    animation: spin 1.5s linear infinite; /* Анімація обертання */
+    transform: translate(-50%, -50%); /* Центруємо псевдоелемент */
+    z-index: 0; /* Розміщуємо псевдоелемент за інпут-полем */
+}
+
+/* Анімація обертання */
+@keyframes spin {
+    0% {
+        transform: rotate(0deg); /* Початковий кут обертання */
+    }
+    100% {
+        transform: rotate(360deg); /* Кінцевий кут обертання */
+    }
+}
+
+/* Зміна кольору рамки при фокусі */
+.text:focus {
+    border-color: #2980b9;
+}
+
+
+
+
+
+
+
+
+
 
 .result {
     display: flex;
